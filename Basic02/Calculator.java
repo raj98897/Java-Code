@@ -16,7 +16,6 @@ public class Calculator {
         char op = sc.next().charAt(0);
 
         double result;
-
         // Perform calculation
         switch (op) {
             case '+':

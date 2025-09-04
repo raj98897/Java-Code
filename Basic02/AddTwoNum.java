@@ -12,7 +12,6 @@ public class AddTwoNum {
         System.out.println(result);
 
         sc.close();
-        
 
     }
     
