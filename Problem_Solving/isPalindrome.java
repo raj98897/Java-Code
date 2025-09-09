@@ -15,6 +15,7 @@ public class isPalindrome {
         }else{
             System.out.println("False");
         }
+        sc.close();
     }}
     
 
